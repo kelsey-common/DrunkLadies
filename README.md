@@ -1,2 +1,1 @@
-# DrunkLadies
-KWit Project
+# kcwit-drunk-ladies
